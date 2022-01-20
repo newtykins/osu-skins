@@ -3,61 +3,99 @@
 
 # osu! skins
 
-> newt's favourite osu! skins - updated last 20/01/2022 (:
+> newt's favourite osu! skins - updated last 21/01/2022 (:
 
 </div>
 
 ### Table of Contents
 
-#### NM
+#### NM/General
 
-- [Arista+ edit (RyuK)](#arista-edit-ryuk)
+- [Arista+ edit (RyuK)](#arista-ryuk)
 
-- [Melano Flandre](#melano-flandre)
+- [Melano Flandre](#flandre)
 
-- [Umbre v1.0](#umbre-v10-mk)
+- [-RM- Uruha Rushia](#rushia)
 
-- [Seoul v9 Personal Skin Kirby](#seoul-v9-personal-skin-kirby)
+- [Joie's Seoul v9 x owoTuna + whale](#whale)
+
+- [Umbre v1.0 『MK』](#umbre)
 
 #### HDDT
 
-- [Rafis HDDT (mrekk)](#rafis-hddt-mrekk)
+- [Rafis HDDT (mrekk)](#rafis-mrekk)
 
-<hr>
+#### EZ
+
+- [CK》 WhiteCat 2.1 ~EZ RK](#whitecat2-ez)
+
+- [GS2](#gs2)
+
+<br>
 
 ### NM
 
-### Arista+ edit (RyuK)
+<hr>
+
+<h3 id="arista-ryuk">Arista+ edit (RyuK)</h3>
 
 [Download](https://download1642.mediafire.com/xwevs8y6vcsg/fmmuq6020lb8sda/Aristia%28Edit%29%2Btrail.osk)
 
 ![Arista+ edit (RyuK)](screenshots/arista-ryuk.jfif)
 
-### Melano Flandre
+<h3 id="flandre">Melano Flandre</h3>
 
 [Download](https://drive.google.com/u/0/uc?id=1zdXi_byDbNDXWUPwt0zNIlUJNFgRsNcJ&export=download)
 
 ![Melano Flandre](screenshots/flandre.jpg)
 
-### Umbre v1.0 『MK』
+<h3 id="rushia">-RM- Uruha Rushia</h3>
+
+[Download](https://drive.google.com/uc?export=download&id=1e2CWkbJz1bGv7cpkrpVIklrb1xolY-xq)
+
+![-RM- Uruha Rushia](screenshots/rushia.jpg)
+
+<h3 id="whale">Joie's Seoul v9 x owoTuna + whale</h3>
+
+[Download](https://vxc.s-ul.eu/SyY9X9YH)
+
+![Joie's Seoul v9 x owoTuna + whale](screenshots/whale.jpg)
+
+<h3 id="umbre">Umbre v1.0 『MK』</h3>
 
 [Download](https://drive.google.com/u/0/uc?id=1F0MHZZoypiqEVnXpLXhriaWKSaaqVVf-&export=download)
 
 ![Umbre v1.0 『MK』](screenshots/umbre.jpg)
 
-### Seoul v9 Personal Skin Kirby
-
-[Download](https://drive.google.com/u/0/uc?id=1eObmw6NdJqJ1c-ANozdcxWXjzlef_mTU&export=download)
-
-![Seoul v9 Personal Skin Kirby](screenshots/seoul-kirby.jpg)
+<br>
 
 ### HDDT
 
-### Rafis HDDT (mrekk)
+<hr>
+
+<h3 id="rafis-mrekk">Rafis HDDT (mrekk)</h3>
 
 [Download](https://drive.google.com/uc?export=download&id=1hHzgI3DfKLLg6VxKYDPT3kYqXERDM96o)
 
 ![Rafis HDDT (mrekk)](screenshots/rafis-mrekk.png)
+
+<br>
+
+### EZ
+
+<hr>
+
+<h3 id="whitecat2-ez">CK》 WhiteCat 2.1 ~EZ [RK]</h3>
+
+[Download](https://drive.google.com/uc?export=download&id=1aPH91CCgFAd0xjpdPbXHsr3jCokwmn1Z)
+
+![CK》 WhiteCat 2.1 ~EZ [RK]](screenshots/whitecat2-ez.jpg)
+
+<h3 id="gs2">GS2</h3>
+
+[Download](https://drive.google.com/uc?export=download&id=1iq384JHuqfkwpM4p20gghGDf1DXKfEaP)
+
+![GS2](screenshots/gs2.jpg)
 
 ### [Go to the top!](#osu-skins)
 
